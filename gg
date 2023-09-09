@@ -1,1 +1,6 @@
-#
+#include <iostream>
+using namespacevstd;
+int main() {
+cout << "hello";
+return 0;
+}
